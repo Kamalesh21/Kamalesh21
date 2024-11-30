@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kamalesh21
-- 👀 I’m interested in ...penetration testing
-- 🌱 I’m currently learning ...penetration testing basics
+- 👀 I’m interested in ...API and UI Automation Testing
+- 👀 I’m interested in ...Knowing about Penetration Testing
+- 🌱 I’m currently learning ...Selenium Framework
 - 💞️ I’m looking to collaborate on ...people who can teach penetration testing
 - 📫 How to reach me ...kamales21082002@gmail.com
 
